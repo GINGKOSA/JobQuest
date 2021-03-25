@@ -1,0 +1,10 @@
+body
+{
+    background-image: url("assets/images/Wallpaper.jpg") ;
+    background-repeat: no-repeat;
+    margin-left: 15%;
+}
+#main
+{
+    border: solid 10px;
+}

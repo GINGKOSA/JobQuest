@@ -1,0 +1,14 @@
+body {
+    font-family : "ZCOOL KuaiLe";
+    
+}
+.degrade {
+    background-image: linear-gradient(90deg, rgb(252, 252, 252), rgb(62, 24, 231));
+    font-size : 92px;
+    color:rgb(51, 53, 53);
+    width : 200px;
+    padding-top:40px;
+    padding-bottom:40px;
+    border-radius:30px;
+    box-shadow: 2px 2px 2px
+}
